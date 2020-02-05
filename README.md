@@ -1,2 +1,2 @@
 # website
-Web Apllication
+Web Application
